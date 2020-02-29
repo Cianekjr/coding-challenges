@@ -1,7 +1,7 @@
 # Coding challenges
 
 ## Run all tests with mocha
-###npm
+### npm
 ```bash
 npm i
 ```
@@ -9,7 +9,7 @@ npm i
 npm run test
 ```
 
-###yarn
+### yarn
 ```bash
 yarn
 ```
